@@ -26,7 +26,7 @@ If you encounter any question, please feel free to contact us. You can create an
 - [License](#License)
 
 ## Introduction
-![](network.png)
+![Our Network Structure](network.png)
 
 We focus on the "imbalanced fineness" and "imbalanced appearances" in the fine-grained ship classification task in remote sensing images and propose **P<sup>2</sup>Net** to address the above issues. P<sup>2</sup>Net is a **weakly-supervised** method, and can be trained in an **end-to-end** way. Our P<sup>2</sup>Net can outperform many recent methods in the FGSC task.
 
