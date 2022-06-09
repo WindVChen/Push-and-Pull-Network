@@ -3,9 +3,9 @@
 ![GitHub stars](https://badgen.net/github/stars/windvchen/push-and-pull-networks)
 [![](https://img.shields.io/apm/l/vim-mode)](#License)
 
-The official implementation of "Contrastive Learning for Fine-grained Ship Classification in Remote Sensing Images".
+## Share us a :star: if this repo does help
 
-Share us a :star: if this repo does help.
+The official implementation of "Contrastive Learning for Fine-grained Ship Classification in Remote Sensing Images".
 
 If you encounter any question, please feel free to contact us. You can create an issue or just send email to me windvchen@gmail.com. Also welcome for any idea exchange and discussion.
 
