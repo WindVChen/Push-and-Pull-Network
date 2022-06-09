@@ -93,7 +93,7 @@ python PPNet.py --data FGSC23_path --epochs 100 --workers 4 --batch-size 64 --nu
 python PPNet.py --data FGSCR242_path --epochs 100 --workers 4 --batch-size 64 --num_classes 42 --proxy_per_cls 2 --pretrained
 ```
 
-To train the baseline, just add `--baseline``, run:
+To train the baseline, just add `--baseline`, run:
 ```
 # For FGSC-23 dataset
 python PPNet.py --data FGSC23_path --epochs 100 --workers 4 --batch-size 64 --num_classes 23 --pretrained --baseline
