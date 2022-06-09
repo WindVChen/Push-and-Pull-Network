@@ -15,12 +15,12 @@ If you encounter any question, please feel free to contact us. You can create an
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [Results and Trained Model](#Results and Trained Model)
+- [Results and Trained Model](#Results-and-Trained Model)
 - [Preliminaries](#Preliminaries)
 - [Environments](#Environments)
-- [Run Details](#Run Details)
-	- [Train Process](#Train Process)
-	- [Test Process](#Test Process)
+- [Run Details](#Run-Details)
+	- [Train Process](#Train-Process)
+	- [Test Process](#Test-Process)
 	- [Visualization](#Visualization)
 - [Citation](#Citation)
 - [License](#License)
