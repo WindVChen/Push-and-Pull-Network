@@ -76,6 +76,7 @@ To overcome the imbalanced sample issue of the two datasets, you can make use of
 
 ## Environments
 
+- Windows/Linux both support
 - python 3.8
 - PyTorch 1.9.0
 - torchvision
