@@ -38,8 +38,8 @@ We focus on the "imbalanced fineness" and "imbalanced appearances" in the fine-g
 | HBPNet``ECCV18 | 74.9 | 6.59 | 87.72 | 91.32 | 
 | DCL``CVPR19 | 23.8 | 4.12 | 85.35 | 90.24 | 
 | TASN``CVPR19 | 34.8 | 18.7 | 87.03 | 91.85 | 
-| GFNet``NIPS20 | 56.5 | 4.59 | 87.13 | <u>92.03</u> | 
-| API-Net``AAAI20 | 23.6 | 4.12 | <u>87.78</u> | 91.47 | 
+| GFNet``NIPS20 | 56.5 | 4.59 | 87.13 | <ins>92.03</ins> | 
+| API-Net``AAAI20 | 23.6 | 4.12 | <ins>87.78</ins> | 91.47 | 
 | ProtoTree``CVPR21 | 108.8 | 20.7 | 84.17 | 89.92 | 
 | **P<sup>2</sup>Net** | 26.9 | 4.23 | **88.99**<br />[[Google Drive](https://drive.google.com/file/d/1Yaa-VHnOoXnNakb-vP_3jxqwEbRw6TBd/view?usp=sharing) &#124; [Baidu Pan](https://pan.baidu.com/s/1uiWHu-MUT_w0VidEEEnH1g) (code:tr3i)]  | **93.21**<br />[[Google Drive](https://drive.google.com/file/d/1X_PtYD9nuuDX78ygru8Xq6lgd5y6u-PF/view?usp=sharing) &#124; [Baidu Pan](https://pan.baidu.com/s/12urPjzkmdynjv0P0R8CuPg) (code:nyro)] |
 
@@ -47,10 +47,10 @@ We focus on the "imbalanced fineness" and "imbalanced appearances" in the fine-g
 | Method | FGSC-23 (AA) | FGSCR-42(AA) |
 |:---|:---:| :---:|
 | ResNet-50 |  85.68 | 91.85 |
-| HBPNet``ECCV18 |  <u>86.09</u> | 92.09 | 
+| HBPNet``ECCV18 |  <ins>86.09</ins> | 92.09 | 
 | DCL``CVPR19 |  84.31 | 90.65 | 
 | TASN``CVPR19 |  86.11 | 92.87 | 
-| GFNet``NIPS20 |  85.37 | <u>92.85</u> | 
+| GFNet``NIPS20 |  85.37 | <ins>92.85</ins> | 
 | API-Net``AAAI20 |  85.32 | 91.92 | 
 | ProtoTree``CVPR21 |  80.46 | 79.14 | 
 | **P<sup>2</sup>Net** | **88.56**<br />[[Google Drive](https://drive.google.com/file/d/1yY-Y0PCKj4yE9MtTSCPzopx7JLWJ0cSN/view?usp=sharing) &#124; [Baidu Pan](https://pan.baidu.com/s/1VbfXMtmivjatutIhAPirOw) (code:4qxh)] | **94.19**<br />[[Google Drive](https://drive.google.com/file/d/1XFPEouHjzbbePb1A4gXdrXaK0lzd2Wb8/view?usp=sharing) &#124; [Baidu Pan](https://pan.baidu.com/s/1OSsK1_edyhqjaGR0gFEM8Q) (code:v06g)] |
