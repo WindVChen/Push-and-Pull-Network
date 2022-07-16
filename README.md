@@ -1,15 +1,17 @@
 # P<sup>2</sup>Net
-![visitors](https://visitor-badge.glitch.me/badge?page_id=windvchen.ppnet.visitor)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=windvchen.p2net.visitor)
 ![GitHub stars](https://badgen.net/github/stars/windvchen/push-and-pull-networks)
 [![](https://img.shields.io/apm/l/vim-mode)](#License)
 
-The official implementation of "Contrastive Learning for Fine-grained Ship Classification in Remote Sensing Images".
+The official implementation of "Contrastive Learning for Fine-grained Ship Classification in Remote Sensing Images". ***(Accepted by TGRS 2022)***
 
 Share us a :star: if this repo does help.
 
 If you encounter any question, please feel free to contact us. You can create an issue or just send email to me windvchen@gmail.com. Also welcome for any idea exchange and discussion.
 
 ## Updates
+- ***2022/07/16***: The repository is now public.
+
 - ***2022/06/09***: The code cleanup is finished and the complete codes are provided, also the weights of our model for FGSC-23 and FGSCR-42 datasets.
 
 ## Table of Contents
