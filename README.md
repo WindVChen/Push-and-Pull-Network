@@ -5,7 +5,7 @@
 
 ## Share us a :star: if this repo does help
 
-The official implementation of "Contrastive Learning for Fine-grained Ship Classification in Remote Sensing Images". ***(Accepted by TGRS 2022)***
+The official implementation of "Contrastive Learning for Fine-grained Ship Classification in Remote Sensing Images" [[IEEE](https://ieeexplore.ieee.org/document/9832938) | [Lab Server]()]. ***(Accepted by TGRS 2022)***
 
 If you encounter any question, please feel free to contact us. You can create an issue or just send email to me windvchen@gmail.com. Also welcome for any idea exchange and discussion.
 
@@ -134,7 +134,15 @@ We provide two visualization tools [drawCM.py](utils/drawCM.py) and [tsne.py](ut
 ## Citation
 If you find this paper useful in your research, please consider citing:
 ```
-
+@ARTICLE{9832938,
+  author={Chen, Jianqi and Chen, Keyan and Chen, Hao and Li, Wenyuan and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Contrastive Learning for Fine-grained Ship Classification in Remote  Sensing Images},
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TGRS.2022.3192256}}
 ```
 
 
