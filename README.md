@@ -5,7 +5,7 @@
 
 ## Share us a :star: if this repo does help
 
-The official implementation of "Contrastive Learning for Fine-grained Ship Classification in Remote Sensing Images" [[IEEE](https://ieeexplore.ieee.org/document/9832938) | [Lab Server]()]. ***(Accepted by TGRS 2022)***
+The official implementation of "Contrastive Learning for Fine-grained Ship Classification in Remote Sensing Images" [[IEEE](https://ieeexplore.ieee.org/document/9832938) | [Lab Server](http://levir.buaa.edu.cn/publications/CLFSC.pdf)]. ***(Accepted by TGRS 2022)***
 
 If you encounter any question, please feel free to contact us. You can create an issue or just send email to me windvchen@gmail.com. Also welcome for any idea exchange and discussion.
 
