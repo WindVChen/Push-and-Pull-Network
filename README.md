@@ -134,15 +134,15 @@ We provide two visualization tools [drawCM.py](utils/drawCM.py) and [tsne.py](ut
 ## Citation
 If you find this paper useful in your research, please consider citing:
 ```
-@ARTICLE{9832938,
-  author={Chen, Jianqi and Chen, Keyan and Chen, Hao and Li, Wenyuan and Zou, Zhengxia and Shi, Zhenwei},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  title={Contrastive Learning for Fine-grained Ship Classification in Remote  Sensing Images},
-  year={2022},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TGRS.2022.3192256}}
+@ARTICLE{9832938,  
+ author={Chen, Jianqi and Chen, Keyan and Chen, Hao and Li, Wenyuan and Zou, Zhengxia and Shi, Zhenwei},  
+ journal={IEEE Transactions on Geoscience and Remote Sensing},   
+ title={Contrastive Learning for Fine-Grained Ship Classification in Remote Sensing Images},   
+ year={2022},  
+ volume={60},  
+ number={},  
+ pages={1-16},  
+ doi={10.1109/TGRS.2022.3192256}}
 ```
 
 
