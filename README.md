@@ -1,5 +1,5 @@
 # P<sup>2</sup>Net
-![visitors](https://visitor-badge.glitch.me/badge?page_id=windvchen.p2net.visitor12)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=windvchen.p2net.visitor)
 ![GitHub stars](https://badgen.net/github/stars/windvchen/push-and-pull-networks)
 [![](https://img.shields.io/apm/l/vim-mode)](#License)
 
