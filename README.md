@@ -1,11 +1,11 @@
 # P<sup>2</sup>Net
-![visitors](https://visitor-badge.glitch.me/badge?page_id=windvchen.p2net.visitor)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=windvchen.p2net.visitor12)
 ![GitHub stars](https://badgen.net/github/stars/windvchen/push-and-pull-networks)
 [![](https://img.shields.io/apm/l/vim-mode)](#License)
 
 ## Share us a :star: if this repo does help
 
-The official implementation of "Contrastive Learning for Fine-grained Ship Classification in Remote Sensing Images" [[IEEE](https://ieeexplore.ieee.org/document/9832938) | [Lab Server](http://levir.buaa.edu.cn/publications/CLFSC.pdf)]. ***(Accepted by TGRS 2022)***
+The official implementation of "Contrastive Learning for Fine-grained Ship Classification in Remote Sensing Images". The paper can be accessed in [[IEEE](https://ieeexplore.ieee.org/document/9832938) | [Lab Server](http://levir.buaa.edu.cn/publications/CLFSC.pdf) | [ResearchGate](https://www.researchgate.net/profile/Keyan-Chen-6/publication/362119906_Contrastive_Learning_for_Fine-grained_Ship_Classification_in_Remote_Sensing_Images/links/62f47d37b8dc8b4403d4ce5c/Contrastive-Learning-for-Fine-Grained-Ship-Classification-in-Remote-Sensing-Images.pdf)]. ***(Accepted by TGRS 2022)***
 
 If you encounter any question, please feel free to contact us. You can create an issue or just send email to me windvchen@gmail.com. Also welcome for any idea exchange and discussion.
 
