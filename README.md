@@ -10,7 +10,7 @@ The official implementation of "Contrastive Learning for Fine-grained Ship Class
 If you encounter any question, please feel free to contact us. You can create an issue or just send email to me windvchen@gmail.com. Also welcome for any idea exchange and discussion.
 
 ## Updates
-- ***2023/03/30***: To facilitate reproduction of our results, we have provided our augmented train datasets in [Preliminaries](#Preliminaries).
+- ***2023/03/30***: To facilitate reproduction of our results and ensure the fairness of possible future comparative experiments, we have provided all of our split and augmented datasets in [Preliminaries](#Preliminaries).
 
 - ***2022/07/16***: The repository is now public.
 
@@ -78,7 +78,7 @@ We provide [DatasetSplit.py](utils/DatasetSplit.py) to easily arrange the datase
 
 To overcome the imbalanced sample issue of the two datasets, you can make use of [customTransform.py](utils/customTransform.py) to augment the fewer-sample subclass in the train dataset. *(Please notice that the val/test dataset is not suggested to be augmented, and you can also choose not to augment the train dataset to see the performance of P<sup>2</sup>Net on the imbalanced sample issue.)* 
 
-You can also find here the augmented train datasets we used for reproduction: [[Google Drive](https://drive.google.com/file/d/1PDnaLLisB10k2CLADXq7rJJ40FmeUMsa/view?usp=share_link) &#124; [Baidu Pan](https://pan.baidu.com/s/1t1U6A_LC_DkagRvMiovIpQ) (code:k4qi)]
+You can also find here all the datasets we used for reproduction or comparative experiments:  [Baidu Pan](https://pan.baidu.com/s/1QJWFbIU4cxFbdO0q6-DM5g) (code:4j35)
 
 ## Environments
 
