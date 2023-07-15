@@ -1,7 +1,7 @@
 # P<sup>2</sup>Net
-![visitors](https://visitor-badge.glitch.me/badge?page_id=windvchen.p2net.visitor)
+![](https://komarev.com/ghpvc/?username=windvchenp2net&label=visitors)
 ![GitHub stars](https://badgen.net/github/stars/windvchen/push-and-pull-networks)
-[![](https://img.shields.io/apm/l/vim-mode)](#License)
+[![](https://img.shields.io/badge/code--license-MIT-brightgreen)](#License)
 
 ## Share us a :star: if this repo does help
 
